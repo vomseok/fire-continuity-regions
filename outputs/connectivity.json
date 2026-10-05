@@ -1,0 +1,617 @@
+{
+ "meta": {
+  "n_forest_blocks": 70308,
+  "block_km2": 0.36,
+  "grid": [
+   311,
+   347
+  ],
+  "wb": 360,
+  "hb": 487,
+  "flam_pctile": {
+   "50": 67.06,
+   "65": 72.91097320561923,
+   "75": 77.28260869565217,
+   "80": 79.72238888888889,
+   "90": 85.67256247681361
+  }
+ },
+ "sweep": [
+  {
+   "th": 90,
+   "p": 0.0485,
+   "rook": {
+    "n_comp": 1395,
+    "max_blocks": 73,
+    "max_km2": 26.28,
+    "S": 0.001,
+    "mean_size": 2.44,
+    "top5": [
+     73,
+     62,
+     62,
+     50,
+     49
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 1064,
+    "max_blocks": 125,
+    "max_km2": 45.0,
+    "S": 0.0018,
+    "mean_size": 3.2,
+    "top5": [
+     125,
+     125,
+     105,
+     81,
+     69
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 85,
+   "p": 0.1095,
+   "rook": {
+    "n_comp": 2078,
+    "max_blocks": 309,
+    "max_km2": 111.24,
+    "S": 0.0044,
+    "mean_size": 3.71,
+    "top5": [
+     309,
+     221,
+     220,
+     155,
+     132
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 1464,
+    "max_blocks": 359,
+    "max_km2": 129.24,
+    "S": 0.0051,
+    "mean_size": 5.26,
+    "top5": [
+     359,
+     261,
+     224,
+     222,
+     188
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 80,
+   "p": 0.1948,
+   "rook": {
+    "n_comp": 2581,
+    "max_blocks": 880,
+    "max_km2": 316.8,
+    "S": 0.0125,
+    "mean_size": 5.31,
+    "top5": [
+     880,
+     646,
+     639,
+     522,
+     302
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 1628,
+    "max_blocks": 1854,
+    "max_km2": 667.44,
+    "S": 0.0264,
+    "mean_size": 8.41,
+    "top5": [
+     1854,
+     1384,
+     687,
+     391,
+     386
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 75,
+   "p": 0.3006,
+   "rook": {
+    "n_comp": 2613,
+    "max_blocks": 5328,
+    "max_km2": 1918.08,
+    "S": 0.0758,
+    "mean_size": 8.09,
+    "top5": [
+     5328,
+     1903,
+     905,
+     373,
+     354
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 1514,
+    "max_blocks": 5979,
+    "max_km2": 2152.44,
+    "S": 0.085,
+    "mean_size": 13.96,
+    "top5": [
+     5979,
+     2074,
+     1955,
+     922,
+     877
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 70,
+   "p": 0.4229,
+   "rook": {
+    "n_comp": 2347,
+    "max_blocks": 14768,
+    "max_km2": 5316.48,
+    "S": 0.21,
+    "mean_size": 12.67,
+    "top5": [
+     14768,
+     725,
+     658,
+     643,
+     472
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 1245,
+    "max_blocks": 21607,
+    "max_km2": 7778.52,
+    "S": 0.3073,
+    "mean_size": 23.88,
+    "top5": [
+     21607,
+     494,
+     487,
+     269,
+     265
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 65,
+   "p": 0.5547,
+   "rook": {
+    "n_comp": 1902,
+    "max_blocks": 25258,
+    "max_km2": 9092.88,
+    "S": 0.3592,
+    "mean_size": 20.5,
+    "top5": [
+     25258,
+     1504,
+     1362,
+     876,
+     631
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 875,
+    "max_blocks": 29542,
+    "max_km2": 10635.12,
+    "S": 0.4202,
+    "mean_size": 44.57,
+    "top5": [
+     29542,
+     1780,
+     1627,
+     919,
+     603
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 60,
+   "p": 0.6877,
+   "rook": {
+    "n_comp": 1251,
+    "max_blocks": 34793,
+    "max_km2": 12525.48,
+    "S": 0.4949,
+    "mean_size": 38.65,
+    "top5": [
+     34793,
+     2805,
+     2302,
+     925,
+     912
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 511,
+    "max_blocks": 44734,
+    "max_km2": 16104.24,
+    "S": 0.6363,
+    "mean_size": 94.62,
+    "top5": [
+     44734,
+     735,
+     313,
+     141,
+     140
+    ],
+    "spanning": false
+   }
+  },
+  {
+   "th": 55,
+   "p": 0.8142,
+   "rook": {
+    "n_comp": 643,
+    "max_blocks": 53068,
+    "max_km2": 19104.48,
+    "S": 0.7548,
+    "mean_size": 89.03,
+    "top5": [
+     53068,
+     1572,
+     256,
+     142,
+     117
+    ],
+    "spanning": false
+   },
+   "queen": {
+    "n_comp": 210,
+    "max_blocks": 56583,
+    "max_km2": 20369.88,
+    "S": 0.8048,
+    "mean_size": 272.6,
+    "top5": [
+     56583,
+     33,
+     30,
+     27,
+     27
+    ],
+    "spanning": true
+   }
+  },
+  {
+   "th": 50,
+   "p": 0.9218,
+   "rook": {
+    "n_comp": 225,
+    "max_blocks": 64221,
+    "max_km2": 23119.56,
+    "S": 0.9134,
+    "mean_size": 288.05,
+    "top5": [
+     64221,
+     37,
+     26,
+     23,
+     23
+    ],
+    "spanning": true
+   },
+   "queen": {
+    "n_comp": 74,
+    "max_blocks": 64609,
+    "max_km2": 23259.24,
+    "S": 0.9189,
+    "mean_size": 875.84,
+    "top5": [
+     64609,
+     23,
+     15,
+     15,
+     12
+    ],
+    "spanning": true
+   }
+  },
+  {
+   "th": 45,
+   "p": 0.9946,
+   "rook": {
+    "n_comp": 119,
+    "max_blocks": 69566,
+    "max_km2": 25043.76,
+    "S": 0.9894,
+    "mean_size": 587.64,
+    "top5": [
+     69566,
+     38,
+     23,
+     15,
+     14
+    ],
+    "spanning": true
+   },
+   "queen": {
+    "n_comp": 44,
+    "max_blocks": 69786,
+    "max_km2": 25122.96,
+    "S": 0.9926,
+    "mean_size": 1589.3,
+    "top5": [
+     69786,
+     15,
+     15,
+     12,
+     8
+    ],
+    "spanning": true
+   }
+  },
+  {
+   "th": 40,
+   "p": 0.9991,
+   "rook": {
+    "n_comp": 119,
+    "max_blocks": 69886,
+    "max_km2": 25158.96,
+    "S": 0.994,
+    "mean_size": 590.28,
+    "top5": [
+     69886,
+     38,
+     23,
+     15,
+     14
+    ],
+    "spanning": true
+   },
+   "queen": {
+    "n_comp": 43,
+    "max_blocks": 70101,
+    "max_km2": 25236.36,
+    "S": 0.9971,
+    "mean_size": 1633.56,
+    "top5": [
+     70101,
+     15,
+     15,
+     12,
+     8
+    ],
+    "spanning": true
+   }
+  }
+ ],
+ "percolation": {
+  "giant_onset_threshold": 72,
+  "giant_onset_p": 0.372,
+  "giant_onset_note": "largest connected cluster steepens (dS/dp max) at flam~72-74, occupied p~0.32-0.42; correlated fuel so backbone forms below random-site p_c(0.59)",
+  "spanning_threshold": 59,
+  "spanning_p_approx": 0.71,
+  "spanning_note": "second-moment correlation length peaks (xi~150 blocks~90km, domain scale) at flam~60 then collapses by flam~58 as the giant becomes border-to-border spanning; p_c(spanning)~0.69-0.74",
+  "xi_peak_blocks": 149.7,
+  "xi_peak_km": 89.8
+ },
+ "correlation_length": {
+  "55": {
+   "xi_blocks": 4.04,
+   "xi_km": 2.43
+  },
+  "60": {
+   "xi_blocks": 149.72,
+   "xi_km": 89.83
+  },
+  "50": {
+   "xi_blocks": 2.86,
+   "xi_km": 1.72
+  }
+ },
+ "region_alignment": {
+  "80": {
+   "L2_cross_frac": 0.031,
+   "L2_cross_frac_baseline": 0.0323,
+   "L3_cross_frac": 0.0349,
+   "L3_cross_frac_baseline": 0.0514,
+   "cross_reduction_vs_baseline_L2": 0.04,
+   "n_clusters_ge5": 306,
+   "mean_dominant_L2_share": 0.955,
+   "frac_clusters_single_L2_ge0.8": 0.905
+  },
+  "65": {
+   "L2_cross_frac": 0.0358,
+   "L2_cross_frac_baseline": 0.0323,
+   "L3_cross_frac": 0.0482,
+   "L3_cross_frac_baseline": 0.0514,
+   "cross_reduction_vs_baseline_L2": -0.106,
+   "n_clusters_ge5": 190,
+   "mean_dominant_L2_share": 0.97,
+   "frac_clusters_single_L2_ge0.8": 0.947
+  },
+  "60": {
+   "L2_cross_frac": 0.0362,
+   "L2_cross_frac_baseline": 0.0323,
+   "L3_cross_frac": 0.0519,
+   "L3_cross_frac_baseline": 0.0514,
+   "cross_reduction_vs_baseline_L2": -0.12,
+   "n_clusters_ge5": 112,
+   "mean_dominant_L2_share": 0.97,
+   "frac_clusters_single_L2_ge0.8": 0.929
+  }
+ },
+ "burn_connectivity": {
+  "80": {
+   "giant": {
+    "n": 1854,
+    "mean_burnfrac": 0.0567,
+    "frac_blocks_burned": 0.0804
+   },
+   "occupied_nongiant": {
+    "n": 11843,
+    "mean_burnfrac": 0.0744,
+    "frac_blocks_burned": 0.1017
+   },
+   "unoccupied": {
+    "n": 56611,
+    "mean_burnfrac": 0.0165,
+    "frac_blocks_burned": 0.0334
+   },
+   "giant_share_of_total_burn": 0.0514,
+   "giant_share_of_forest_area": 0.0264,
+   "occupied_share_of_total_burn": 0.5188,
+   "occupied_share_of_forest_area": 0.1948
+  },
+  "65": {
+   "giant": {
+    "n": 29542,
+    "mean_burnfrac": 0.059,
+    "frac_blocks_burned": 0.0911
+   },
+   "occupied_nongiant": {
+    "n": 9456,
+    "mean_burnfrac": 0.0002,
+    "frac_blocks_burned": 0.0004
+   },
+   "unoccupied": {
+    "n": 31310,
+    "mean_burnfrac": 0.0055,
+    "frac_blocks_burned": 0.0175
+   },
+   "giant_share_of_total_burn": 0.908,
+   "giant_share_of_forest_area": 0.4202,
+   "occupied_share_of_total_burn": 0.9092,
+   "occupied_share_of_forest_area": 0.5547
+  },
+  "60": {
+   "giant": {
+    "n": 44734,
+    "mean_burnfrac": 0.0409,
+    "frac_blocks_burned": 0.0653
+   },
+   "occupied_nongiant": {
+    "n": 3616,
+    "mean_burnfrac": 0.0007,
+    "frac_blocks_burned": 0.0017
+   },
+   "unoccupied": {
+    "n": 21958,
+    "mean_burnfrac": 0.0038,
+    "frac_blocks_burned": 0.0145
+   },
+   "giant_share_of_total_burn": 0.9527,
+   "giant_share_of_forest_area": 0.6363,
+   "occupied_share_of_total_burn": 0.9541,
+   "occupied_share_of_forest_area": 0.6877
+  },
+  "size_vs_burn_th65": {
+   "spearman_rho": 0.001,
+   "p": 0.9738,
+   "giant_meanburn": 0.059,
+   "small_clusters(<10blk)_meanburn": 0.002
+  }
+ },
+ "correlation_length_fine": {
+  "56": {
+   "p": 0.7889,
+   "xi_blocks": 6.22,
+   "xi_km": 3.73
+  },
+  "58": {
+   "p": 0.739,
+   "xi_blocks": 5.15,
+   "xi_km": 3.09
+  },
+  "60": {
+   "p": 0.6877,
+   "xi_blocks": 149.72,
+   "xi_km": 89.83
+  },
+  "62": {
+   "p": 0.6351,
+   "xi_blocks": 145.72,
+   "xi_km": 87.43
+  },
+  "64": {
+   "p": 0.5816,
+   "xi_blocks": 131.99,
+   "xi_km": 79.19
+  },
+  "66": {
+   "p": 0.5289,
+   "xi_blocks": 130.21,
+   "xi_km": 78.12
+  },
+  "68": {
+   "p": 0.4749,
+   "xi_blocks": 128.47,
+   "xi_km": 77.08
+  },
+  "70": {
+   "p": 0.4229,
+   "xi_blocks": 127.95,
+   "xi_km": 76.77
+  },
+  "72": {
+   "p": 0.3721,
+   "xi_blocks": 102.82,
+   "xi_km": 61.69
+  },
+  "74": {
+   "p": 0.3231,
+   "xi_blocks": 67.01,
+   "xi_km": 40.2
+  },
+  "76": {
+   "p": 0.2784,
+   "xi_blocks": 67.27,
+   "xi_km": 40.36
+  },
+  "78": {
+   "p": 0.2344,
+   "xi_blocks": 66.79,
+   "xi_km": 40.07
+  },
+  "80": {
+   "p": 0.1948,
+   "xi_blocks": 38.02,
+   "xi_km": 22.81
+  }
+ },
+ "pixel_level_30m": {
+  "80": {
+   "p": 0.3587,
+   "n_comp": 191685,
+   "max_px": 148366,
+   "max_km2": 133.53,
+   "S": 0.0075
+  },
+  "65": {
+   "p": 0.5199,
+   "n_comp": 153089,
+   "max_px": 291510,
+   "max_km2": 262.36,
+   "S": 0.0146
+  },
+  "60": {
+   "p": 0.5341,
+   "n_comp": 208523,
+   "max_px": 784579,
+   "max_km2": 706.12,
+   "S": 0.0394
+  },
+  "meta": {
+   "n_forest_px": 19900762,
+   "px_km2": 0.0009,
+   "res_m": 30
+  }
+ }
+}

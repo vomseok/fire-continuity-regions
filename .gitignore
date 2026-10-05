@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.tif
+*.tiff
+may_tmp/
+_conn_tmp.npz

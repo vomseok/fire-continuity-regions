@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article below."
+title: "Fire-Continuity Regions: code and regional outputs"
+authors:
+  - family-names: Kwon
+    given-names: Yongseok
+    orcid: "https://orcid.org/0000-0002-9783-8808"
+    affiliation: "Gyeongbuk Development Institute (GDI)"
+version: "1.0.0"
+date-released: "2026-10-05"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Hierarchical Delineation of Fire-Continuity Regions by Spatially Constrained Clustering of Species-Level Fuel Flammability and Terrain: Application to the 2025 Gyeongsangbuk-do Megafire Region"
+  authors:
+    - family-names: Kwon
+      given-names: Yongseok
+  year: 2026
+  journal: "Fire"
+  notes: "Manuscript under review"
